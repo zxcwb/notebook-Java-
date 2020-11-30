@@ -8,7 +8,7 @@ public class PropertiesTest01 {
         properties.setProperty("url","jdbc:mysql://localhost:3306/bjpowernode");
         properties.setProperty("driver","com.mysql.jdbc.Driver");
         properties.setProperty("username","root");
-        properties.setProperty("password","123");
+        properties.setProperty("password","123456");
 
         String url = properties.getProperty("url");
         String driver = properties.getProperty("driver");

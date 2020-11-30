@@ -1,4 +1,4 @@
-package 数组和字符串;
+package 数组和字符串.数组;
 
 public class ArrayTest01 {
     public static void main(String[] args) {
